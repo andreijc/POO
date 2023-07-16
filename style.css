@@ -12,6 +12,7 @@ html, body {
   body {
     overflow: hidden;
     height: inherit;
+    background-color: gray;
   }
   
   h1 {
@@ -21,7 +22,7 @@ html, body {
     margin: 0;
     top: -4px;
     right: 5px;
-  
+    text-align: center;
     color: transparent;
     text-shadow: 0 0 4px white;
   }
